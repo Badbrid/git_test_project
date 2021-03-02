@@ -1,0 +1,11 @@
+server:
+  port: 8081
+datasource:
+  driverName: mysql
+  host: 10.23.171.250
+  port: 13306
+  database: gintestproject
+  username: root
+  password: my_root_password
+  charset: utf8
+  loc: Asia/Shanghai
